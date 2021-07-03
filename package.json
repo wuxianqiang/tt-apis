@@ -1,0 +1,38 @@
+{
+  "author": {
+    "name": "wuxianqiang"
+  },
+  "bugs": {
+    "url": "https://github.com/wuxianqiang/tt-apis/issues"
+  },
+  "description": "头条小程序API语法提示.",
+  "devDependencies": {
+  },
+  "files": [
+    "src",
+    "types/*.d.ts"
+  ],
+  "gitHooks": {
+  },
+  "homepage": "https://github.com/wuxianqiang/tt-apis#readme",
+  "keywords": [
+    "微信",
+    "tt",
+    "头条",
+    "字节",
+    "小程序"
+  ],
+  "license": "MIT",
+  "main": "dist/vue.runtime.common.js",
+  "module": "dist/vue.runtime.esm.js",
+  "name": "tt-apis",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuxianqiang/tt-apis"
+  },
+  "scripts": {
+  },
+  "sideEffects": false,
+  "typings": "types/index.d.ts",
+  "version": "1.0.0"
+}
